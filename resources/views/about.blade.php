@@ -1,4 +1,4 @@
-@extends("search")
+@extends("theme")
 @section("content")
 <div class="container">
 <div class="row">
