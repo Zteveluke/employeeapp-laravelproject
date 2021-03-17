@@ -23,7 +23,7 @@
           <a class="nav-link" href="/search">Search Employee</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/contact">About Us</a>
+          <a class="nav-link active" aria-current="page" href="/about">About Us</a>
         </li>
       </ul>
       <form class="d-flex">
